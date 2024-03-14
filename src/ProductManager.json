@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "funko 1",
+      "description": "spiderman",
+      "price": 1500,
+      "thumbnail": "thumbnail1.jpg",
+      "code": "abc123",
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "title": "funko 2",
+      "description": "batman",
+      "price": 1700,
+      "thumbnail": "thumbnail2.jpg",
+      "code": "abc124",
+      "stock": 80
+    },
+    {
+      "id": 3,
+      "title": "funko 3",
+      "description": "it",
+      "price": 2000,
+      "thumbnail": "thumbnail3.jpg",
+      "code": "abc125",
+      "stock": 45
+    },
+    {
+      "id": 4,
+      "title": "funko 4",
+      "description": "depredador",
+      "price": 2100,
+      "thumbnail": "thumbnail4.jpg",
+      "code": "abc126",
+      "stock": 30
+    },
+    {
+      "id": 5,
+      "title": "funko 5",
+      "description": "iron man",
+      "price": 3100,
+      "thumbnail": "thumbnail5.jpg",
+      "code": "abc127",
+      "stock": 20
+    },
+    {
+      "id": 6,
+      "title": "funko 6",
+      "description": "thanos",
+      "price": 2300,
+      "thumbnail": "thumbnail6.jpg",
+      "code": "abc128",
+      "stock": 15
+    },
+    {
+      "id": 7,
+      "title": "funko 7",
+      "description": "harry potter",
+      "price": 2150,
+      "thumbnail": "thumbnail7.jpg",
+      "code": "abc129",
+      "stock": 55
+    },
+    {
+      "id": 8,
+      "title": "funko 8",
+      "description": "superman",
+      "price": 2350,
+      "thumbnail": "thumbnail8.jpg",
+      "code": "abc130",
+      "stock": 90
+    },
+    {
+      "id": 9,
+      "title": "funko 9",
+      "description": "mujer maravilla",
+      "price": 2400,
+      "thumbnail": "thumbnail9.jpg",
+      "code": "abc131",
+      "stock": 70
+    },
+    {
+      "id": 10,
+      "title": "funko 10",
+      "description": "flash",
+      "price": 1100,
+      "thumbnail": "thumbnail10.jpg",
+      "code": "abc132",
+      "stock": 56
+    }
+  ]
